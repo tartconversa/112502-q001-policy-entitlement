@@ -1,0 +1,3 @@
+payment,enterprise,policy,bill,amount,state,decision_version
+T1,E2,P2,B2,5000,paid,d1
+T2,E1,P1,B1,0,pending,d1

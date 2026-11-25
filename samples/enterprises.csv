@@ -1,0 +1,4 @@
+enterprise,department,industry_code,valid_from,valid_to,region
+E1,海南工信,制造-旧,2024-01-01,2025-06-30,HA
+E1,市场监管,制造-新,2025-07-01,,HA
+E2,海南工信,生物制造,2025-01-01,,HB
